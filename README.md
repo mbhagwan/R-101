@@ -1,5 +1,5 @@
 **Course:** R 101<br>
-by <a href="https://cognitiveclass.ai/courses/r-101" target="_blank">Cognitive Class | IBM</a>
+by: <a href="https://cognitiveclass.ai/courses/r-101" target="_blank">Cognitive Class | IBM</a>
 
 **Course Syllabus:**
 
